@@ -1,7 +1,7 @@
 # Projeto DSVendas
-## Semana Spring React
+## Semana Spring React - [DevSuperior](https://devsuperior.com.br/)
 
 
 
 ### Estudos  
-- 🏦 [SOLID](https://kagi-dsvendas.netlify.app/)  
+- 🏦 [DSVendas](https://kagi-dsvendas.netlify.app/)  
